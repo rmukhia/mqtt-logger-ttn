@@ -1,0 +1,11 @@
+MQTT_BROKER=''
+MQTT_PORT=1883
+MQTT_TOPIC='v3/xyz/devices/+/'
+MQTT_CLIENT_ID='mqtt-logger'
+
+
+MQTT_USERNAME='xyz'
+MQTT_PASSWORD='ttn_token'
+
+MONGO_USER='user'
+MONGO_PASS='user'
